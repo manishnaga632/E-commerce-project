@@ -31,5 +31,11 @@ asyncpg
 # email-validator
 email-validator
 
+# pydantic-settings
 pydantic-settings
+
+# Multipart Support
 python-multipart
+
+# Time Zone Handling
+pytz
